@@ -1,0 +1,64 @@
+Industial Area,LIS KEY,Number of businesses,Business name,Economic activity as apprehended originally,Standardised Economic Activity,SIC code,1st Level,2nd Level,3rd Level,4th Level,5th Level
+Montague Gardens Industrail,448068,9,CPG,Construction,Construction of buildings,5021,5,0,2,1,
+Montague Gardens Industrail,256093,3,Dalga Construction,Construction ,Construction of buildings,5021,5,0,2,1,
+Montague Gardens Industrail,256219,18,MSD Construction,Construction company,Construction of buildings,5021,5,0,2,1,
+Montague Gardens Industrail,256310,1,NMC,Construction company,Construction of buildings,5021,5,0,2,1,
+Montague Gardens Industrail,256162,1,Raciti,Construction company,Construction of buildings,5021,5,0,2,1,
+Montague Gardens Industrail,734349,12,RCT Building Projects,Construction company,Construction of buildings,5021,5,0,2,1,
+Montague Gardens Industrial,253606,22,Frazzita construction ,Building constructors,Construction of buildings,5021,5,0,2,1,
+"Montague Gardens Industrial,255911,3,Tailor made properties ,""Construction of residential, commercial, retail and industrial projects "",Construction of buildings,5021,5,0,2,1,"
+Montague Gardens Industrial,255952,2,Woodgraze ,Construction,Construction of other buildings,50219,5,0,2,1,9
+Montague Gardens Industrail,255999,5,Advance Engineering Works,Structural engineers,Construction of civil engineering structures,50220,5,0,2,2,0
+Montague Gardens Industrial,448559,16,Botter build ,Construction ,Construction of civil engineering structures,50220,5,0,2,2,0
+"Montague Gardens Industrail,256159,3,Awnmaster,""Manufacturing and installing of awnings, carports and shadeports"",Construction of other structures,50230,5,0,2,3,0"
+"Montague Gardens Industrail,448344,2,De Wets Boreholes,""Specialists in wellpoint, borehole and irrigation installations"",Construction of other structures,50230,5,0,2,3,0"
+"Montague Gardens Industrail,256159,3,Starcape,""Manufacturing and installing of awnings, carports and shadeports"",Construction of other structures,50230,5,0,2,3,0"
+"Montague Gardens Industrail,309563,11,Zodiac,""Suppliers of swimming pool, spa and aquaric equipment and supplies"",Construction of other structures,50230,5,0,2,3,0"
+Montague Gardens Industrail,256217,1,Olympic Roofing Services,Roofing contractors,Construction by specialist trade contractors,50240,5,0,2,4,0
+Montague Gardens Industrial,255996,14,Scoop ,Cables and wireless ,BUILDING INSTALLATION,50300,5,0,3,0,0
+Montague Gardens Industrail,256154,1,Geberit,Plumbing,Plumbing,50310,5,0,3,1,0
+Montague Gardens Industrail,448416,7,Greenz Plumbing,Plumbing,Plumbing,50310,5,0,3,1,0
+Montague Gardens Industrail,448417,7,Greenz Plumbing,Plumbing,Plumbing,50310,5,0,3,1,0
+Montague Gardens Industrail,256068,7,Leakfind,Plumbing,Plumbing,50310,5,0,3,1,0
+Montague Gardens Industrail,448160,5,Monster Plumbing,Plumbing,Plumbing,50310,5,0,3,1,0
+Montague Gardens Industrial,977584,8,Vortex plumbing ,Plumbing contractors,Plumbing,50310,5,0,3,1,0
+Montague Gardens Industrial,255860,1,Gio distributors ,Bathroom accessories & plumbing fitting ,Plumbing ,50310,5,0,3,1,0
+Montague Gardens Industrial,448559,16,Drain clear plumbing ,Plumbing contractors,Plumbing,50310,5,0,3,1,0
+Montague Gardens Industrail,734349,12,Amlec,Specialises in electrical installations and maintenance,Electrical contracting,50320,5,0,3,2,0
+Montague Gardens Industrail,949525,10,John Ferrel Electrical,Electrical contractors,Electrical contracting,50320,5,0,3,2,0
+Montague Gardens Industrail,256120,13,SA Electro,Electrical contractors,Electrical contracting,50320,5,0,3,2,0
+Montague Gardens Industrail,256121,13,SA Electro,Electrical contractors,Electrical contracting,50320,5,0,3,2,0
+Montague Gardens Industrail,448416,7,SL Electrical,Deliver electrical services,Electrical contracting,50320,5,0,3,2,0
+Montague Gardens Industrail,448417,7,SL Electrical,Deliver electrical services,Electrical contracting,50320,5,0,3,2,0
+Montague Gardens Industrail,256285,1,Technoserve,Electrical and electronic engineering,Electrical contracting,50320,5,0,3,2,0
+Montague Gardens Industrial,255992,1,Brand engineering ,Electrical contractor,Electrical contracting,50320,5,0,3,2,0
+Montague Gardens Industrial,255986,11,ICR electrical ,Electricians,Electrical contracting,50320,5,0,3,2,0
+Montague Gardens Industrial,734152,1,Valley electrical contractors ,Electrical contracting,Electrical contracting,50320,5,0,3,2,0
+Montague Gardens Industrial,977592,5,AMJ electrical services ,INDUSTRIAL REPAIRS AND MAINTENANCE INSTALLATION / UPGRADES OF SWITCHGEAR AND PANELS,Electrical contracting,50320,5,0,3,2,0
+Montague Gardens Industrial,1063189,8,Elbro AC ,Electrical contracting,Electrical contracting,50320,5,0,3,2,0
+Montague Gardens Industrail,256274,5,Form Func Installation,Installs cabinets,Shopfitting,50330,5,0,3,3,0
+Montague Gardens Industrail,256230,3,The master crafter,Manufactures fitted and free-standing custom-made cabinetry in all shapes and formats,Shopfitting,50330,5,0,3,3,0
+"Montague Gardens Industrial,255858,2,First fit ,""Office fitters, shop and office fitters, shop fitters"",Shop fitting,50330,5,0,3,3,0"
+Montague Gardens Industrial,255906,3,Pat shop fitters ,Shop fitting,Shop fitting,50330,5,0,3,3,0
+Montague Gardens Industrial,255995,2,Store maintenance and installation specialists ,Shop fitting,Shop fitting,50330,5,0,3,3,0
+Montague Gardens Industrail,256020,6,Belfa Fire,Service and installation to customers requiring Fire Protection,Other building installation n.e.c.,50390,5,0,3,9,0
+Montague Gardens Industrail,256209,3,Euro-railing,Installs stainless steel and glass railing,Other building installation n.e.c.,50390,5,0,3,9,0
+Montague Gardens Industrail,256120,13,SST,Security systems provider,Other building installation n.e.c.,50390,5,0,3,9,0
+Montague Gardens Industrail,256121,13,SST,Security systems provider,Other building installation n.e.c.,50390,5,0,3,9,0
+Montague Gardens Industrail,266224,2,Techno Confort,Install Airconditioning,Other building installation n.e.c,50390,5,0,3,9,0
+Montague Gardens Industrail,448416,7,Thermos King,Refrigiration contractors,Other building installation n.e.c.,50390,5,0,3,9,0
+Montague Gardens Industrail,448417,7,Thermos King,Refrigiration contractors,Other building installation n.e.c.,50390,5,0,3,9,0
+Montague Gardens Industrial,255902,2,Aerothane,Insulation,Other building installation n.e.c.,50390,5,0,3,9,0
+Montague Gardens Industrial,255941,2,Southern air maintenance ,Air-conditioning contractors- supply and install air-conditioning,Other building installation n.e.c. ,50390,5,0,3,9,0
+Montague Gardens Industrail,448755,6,Bonzai Painting & Waterproofing,Painters and waterproofers,Painting and decorating,50410,5,0,4,1,0
+Montague Gardens Industrail,256147,2,Cape Auto Paints,Painters/Decorators,Painting and decorating,50410,5,0,4,1,0
+Montague Gardens Industrail,256120,13,Industry spray booth,Spray booth for automotive and industrial sector,Painting and decorating,50410,5,0,4,1,0
+Montague Gardens Industrail,256121,13,Industry spray booth,Spray booth for automotive and industrial sector,Painting and decorating,50410,5,0,4,1,0
+Montague Gardens Industrail,949525,10,Watson Sandblasting,Sandblasting services,Painting and decorating,50410,5,0,4,1,0
+"Montague Gardens Industrail,256299,1,Cam world,""Services including cleaning, property maintenance, construction, office janitorial service, general repairs, tenant improvements, painting, power sweeping, steam cleaning, ADA remediation and landscaping."",Other building completion n.e.c.,50490,5,0,4,9,0"
+"Montague Gardens Industrail,255999,5,Prinsloo & Zeeman,""Waterproving, painting and roofing contractors"",Other building completion n.e.c.,50490,5,0,4,9,0"
+"Montague Gardens Industrial,450529,5,Prize waterproofing ,""Building maintenance industry, specialize in all aspects of Waterproofing, Damp proofing, Roofing, Redecoration and Restoration"",Other building completion n.e.c.,50490,5,0,4,9,0"
+Montague Gardens Industrial,255902,2,Design syndicate ,Install Wall coverings ,Other building completion n.e.c.,50490,5,0,4,9,0
+"Montague Gardens Industrial,256231,8,Seal con systems ,""Industrial flooring, concrete repairs and protective coatings, structural strengthening and reinforcing systems, and traditional waterproofing systems"",Other building completion n.e.c.,50490,5,0,4,9,0"
+Montague Gardens Industrial,255928,1,Southey contracting ,The renting and erection of scaffolding,RENTING OF CONSTRUCTION OR DEMOLITION Equipment WITH OPERATORS,50500,5,0,5,0,0
+Montague Gardens Industrial,255964,1,Southey contracting ,The renting and erection of scaffolding,RENTING OF CONSTRUCTION OR DEMOLITION Equipment WITH OPERATORS,50500,5,0,5,0,0
